@@ -1,0 +1,7 @@
+-lib heaps
+-cp src
+-D analyzer-optimize
+-D windowSize=400x400
+-main Main
+-swf-version 15
+--swf bin/app.swf
